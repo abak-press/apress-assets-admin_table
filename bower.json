@@ -1,6 +1,6 @@
 {
   "name": "apress-assets-admin_table",
-  "main": "admin_table.js",
+  "main": ["admin_table.js", "templates/*.hamlbars"],
   "version": "0.0.1",
   "authors": [
     "tnk2006 <pn79122821224@gmail.com>"
