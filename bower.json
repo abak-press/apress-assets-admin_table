@@ -1,7 +1,7 @@
 {
   "name": "apress-assets-admin_table",
   "main": ["src/admin_table.js", "src/admin_table.css"],
-  "version": "0.0.1",
+  "version": "0.0.3",
   "authors": [
     "tnk2006 <pn79122821224@gmail.com>"
   ],
