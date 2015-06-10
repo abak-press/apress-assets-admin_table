@@ -1,10 +1,18 @@
 {
   "name": "apress-assets-admin_table",
-  "main": "admin_table.js",
+  "main": "[admin_table.js, templates/table_row.hamlbars]",
   "version": "0.0.1",
   "authors": [
     "tnk2006 <pn79122821224@gmail.com>"
   ],
   "description": "js for moderation in admin",
-  "license": "MIT"
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ]
 }
